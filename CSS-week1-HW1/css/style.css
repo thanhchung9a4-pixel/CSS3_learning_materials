@@ -38,3 +38,7 @@ img{
   max-width: fit-content;
   max-height: fit-content;
 }
+main{
+  background-color: white;
+  font-size: 100%;
+}
